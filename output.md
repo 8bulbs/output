@@ -1,1 +1,0 @@
-output make you strong
