@@ -1,1 +1,1 @@
-output make you stronger ！
+input and output make you stronger ！
