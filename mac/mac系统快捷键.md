@@ -12,7 +12,7 @@
 * 自定义打开 vscode `command + '`
 * 自定义打开 wechat `command + shift + '`
 
->关闭第三方程序验证
+>关闭第三方程序验证
 ```bash
 $ sudo spctl --master-disable
 $ defaults write com.apple.LaunchServices LSQuarantine -bool false
